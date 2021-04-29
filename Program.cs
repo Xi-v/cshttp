@@ -2,7 +2,7 @@ using System;
 using System.Net;
 using System.Collections.Specialized;
 
-namespace Examples.System.Net {
+namespace cshttp {
   public class HttpWebGetPost {
     public static void Main() {
       int requestSize = 30;
